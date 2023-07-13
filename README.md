@@ -9,7 +9,6 @@ Assemble a pizza-ordering chatbot dialog
 
 # Service
 - Watson Assistant
-- Watson Discovery
 - Object Cloud Storage
 
 # Watson Assistant

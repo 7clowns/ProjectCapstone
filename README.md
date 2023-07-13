@@ -12,7 +12,7 @@ Assemble a pizza-ordering chatbot dialog
 - Watson Discovery
 - Object Cloud Storage
 
-# How To Create Watson Assistant
+# Watson Assistant
 1. Buat akun IBM Cloud :
    Kunjungi situs web IBM Cloud (https://cloud.ibm.com) dan buat akun jika Anda belum memiliki satu.
 2. Buka Watson Assistant :
@@ -31,7 +31,7 @@ Assemble a pizza-ordering chatbot dialog
    Tambahkan node dialog untuk mengatur aliran percakapan.
    Tentukan kondisi dan respons yang sesuai untuk setiap node.
    
-# How To Create Object Cloud Storage
+# Object Cloud Storage
 1. Buat akun IBM Cloud :
    Kunjungi situs web IBM Cloud (https://cloud.ibm.com) dan buat akun jika Anda belum memiliki satu.
 2. Buka Object Cloud Storage :

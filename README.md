@@ -2,8 +2,7 @@
 # PENERAPAN CHATBOT UNTUK MENINGKATKAN EFISIENSI LAYANAN PELANGGAN DALAM WEBSITE RESTORAN
 
 # Pattern
-Enhance customer helpdesks with Smart Document Understanding using the Watson Assistant search skill
-Build a chatbot using the Watson Assistant search skill and Watson Discovery
+Assemble a pizza-ordering chatbot dialog
 
 # Flow
 ![image](https://github.com/7clowns/ProjectCapstone-Chatbot/assets/85627213/9943539a-b90b-42bd-b5fd-c88c67d90d16)
